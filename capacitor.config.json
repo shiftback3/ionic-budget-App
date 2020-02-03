@@ -1,0 +1,8 @@
+{
+  "appId": "com.simplensmart",
+  "appName": "budget",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
